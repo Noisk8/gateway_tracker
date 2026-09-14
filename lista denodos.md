@@ -2,7 +2,7 @@ gateways noi
 
 https://explorer.nym.spectredao.net/nodes/2PBsVbunvBDgSk8ZNpJ5fns5eDKeEjmuDbHq5hXoSH7T
 
-https://explorer.nym.spectredao.net/nodes/5eWRkq1AkMUUPL4K5N74xuhGXVW7H3c1fyxUbK2vnmhc
+https://explorer.nym.spectredao.net/nodes/3386
 
 https://explorer.nym.spectredao.net/nodes/Ho63EWjtGM8kQh8UxYxZWjekBUHMBJ386ReRPdLppHsa
 

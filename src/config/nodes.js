@@ -3,7 +3,7 @@ export const GROUPS = [
     name: 'NOI',
     nodes: [
       '2PBsVbunvBDgSk8ZNpJ5fns5eDKeEjmuDbHq5hXoSH7T',
-      '5eWRkq1AkMUUPL4K5N74xuhGXVW7H3c1fyxUbK2vnmhc',
+      '3386',
       'Ho63EWjtGM8kQh8UxYxZWjekBUHMBJ386ReRPdLppHsa',
       'EzUL5tBfq2jAuTJZ24rVJ5SFV5gCH1yZKmKSzZRsjcKn',
     ],
